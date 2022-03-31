@@ -1,0 +1,118 @@
+body{
+	background-image: white ;
+}
+
+#top{
+	background: black;
+	color: white;
+	height: 300px;
+    position: fixed;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+#nav{
+	text-align: left;
+	padding-top: 10px;
+	font-size: 50px;
+	font-family: cursive;
+	background-color: #f5d020;
+background-image: linear-gradient(to left, #f5d020 0%, #f53803 74%);
+	color: black;
+    
+}
+#p1{ 
+	color: white;
+	padding-top: 100px;
+	padding-left: 80px;
+	font-size: 50px;
+	
+
+}
+
+
+#p2{
+	color: black;
+	padding-left: 30px;
+	padding-top: 0px;
+}
+#p3{
+	text-align: center;
+	font-size:100px ;
+	margin-top: 300px;
+	font-weight: bold;
+	font-family: cursive;
+}
+#p4{
+	font-family: cursive;
+	padding-left: 60px;
+	padding-right: 60px;
+	font-size: 30px;
+}
+
+#img1{
+	height: 500px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 270px;
+}
+#p5{
+	text-align: center;
+	font-size:100px ;
+	margin-top: 300px;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+#p6{
+	text-align: center;
+	font-size:70px ;
+	margin-top: 300px;
+	font-weight: bold;
+	font-family: cursive;
+}
+#p7{
+font-family: cursive;
+	padding-left: 90px;
+	padding-right: 60px;
+	font-size: 20px;
+}
+
+#image5 {
+   width: 100px;
+   height: 100px;
+   padding-left: 150px;
+   padding-top: 100px;
+}
+
+#end{
+	background: black;
+	color: yellow;
+	height: 400px;
+	margin-top: 200px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
